@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-16"?>
+<ArrayOfProfile>
+  <Profile>
+    <ProfileName>Roblox</ProfileName>
+    <Executeables>
+      <string>windows10universal.exe</string>
+      <string>robloxcorporation.roblox_55nm5eh3cm0pr</string>
+    </Executeables>
+    <Settings />
+  </Profile>
+</ArrayOfProfile>
